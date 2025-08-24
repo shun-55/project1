@@ -10,7 +10,7 @@ elif op=="*":
   result=number1+num2
 elif op=="/":
   if num2!=0:
-  result=number1/num2
+    result=number1/num2
   else:
     result="エラー（０で割れません）"
 else:
